@@ -19,8 +19,6 @@ public class App
         int len = Integer.parseInt(length);
         int wid = Integer.parseInt(width);
 
-
-
         int ftarea = len*wid;
         double marea = (double)ftarea * 0.09290304;
 
